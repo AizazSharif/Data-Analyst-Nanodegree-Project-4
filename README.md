@@ -23,7 +23,7 @@ install.packages("dplyr", dependencies = T)
 
 ## Usage
 
-In R-Studio, after installing all dependencies successfully, open the .Rmd File of the folder and run each cell (by hitting Ctrl+Enter) To go throught each step from accessing the Dataset to Visualizing and running Statistics on single and multi-variables
+In R-Studio, after installing all dependencies successfully, open the .Rmd File of the folder and run each cell (by hitting Ctrl+Enter) To go through each step from accessing the Dataset to Visualizing and running Statistics on single and multi-variables
 
 ## Credit
 This project is a part of Data Analyst Nanodegree and all credit goes to Udacity.
